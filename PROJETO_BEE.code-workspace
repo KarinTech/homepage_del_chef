@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BEE_PROJECT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROJETO_BEE"
+	}
+}
